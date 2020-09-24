@@ -28,5 +28,12 @@ module.exports = {
       template: './src/index.html'
     })
   ],
-  mode: 'development'
+  mode: 'development',
+//  启动服务器
+  devServer: {
+    contentBase: resolve(__dirname, 'build'),
+    port: 8888,
+    compress: true,
+    open: true
+  }
 }

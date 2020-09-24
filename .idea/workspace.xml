@@ -2,15 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6cc0af0-5a2a-496d-a404-54b03eb49988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包其他资源/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包其他资源/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包其他资源/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_提取CSS样式/src/css/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_提取CSS样式/src/css/b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_提取CSS样式/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_提取CSS样式/src/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_提取CSS样式/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devServer/src/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/src/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devServer/src/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/src/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devServer/src/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/src/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devServer/src/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/src/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devServer/src/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/src/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devServer/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devServer/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devServer/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack基本用法/build/built.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_webpack基本用法/build/built.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack基本用法/src/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/1_webpack基本用法/src/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack基本用法/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_webpack基本用法/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack基本用法/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_webpack基本用法/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack基本用法/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_webpack基本用法/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/build/imgs/abf1c36d.png" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/build/abf1c36d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/build/js/built.js" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/build/js/built.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/build/media/[hash: 10].eot" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/build/media/[hash: 10].eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/build/media/[hash: 10].svg" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/build/media/[hash: 10].svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/build/media/[hash: 10].ttf" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/build/media/[hash: 10].ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/build/media/[hash: 10].woff" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/build/media/[hash: 10].woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/css/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/css/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/css/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/css/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/imgs/1111111111111.png" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/src/1111111111111.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/imgs/22222222.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/src/22222222.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/imgs/33333333.png" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/src/33333333.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/media/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/6_devServer/src/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/media/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/6_devServer/src/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/media/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/6_devServer/src/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/src/media/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/6_devServer/src/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发环境基本配置/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包html资源/build/built.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_打包html资源/build/built.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包html资源/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_打包html资源/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包html资源/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_打包html资源/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包html资源/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_打包html资源/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包html资源/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_打包html资源/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/build/0.built.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/build/0.built.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/build/0b2b68fd89.svg" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/build/0b2b68fd89.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/build/1.built.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/build/1.built.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/build/23bb4bd586.eot" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/build/23bb4bd586.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/build/8283cfb497.woff" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/build/8283cfb497.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/build/built.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/build/built.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/build/cd84a6da3c.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/build/cd84a6da3c.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/5_打包其他资源/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/src/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/6_devServer/src/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/src/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/media/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/src/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/media/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/src/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/media/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/src/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/media/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/6_devServer/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/6_devServer/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包其他资源/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/6_devServer/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/build/abf1c36d.png" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/build/imgs/abf1c36d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/build/abf1c36d978a93dd57220ba3f0f29b8c.png" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/build/abf1c36d978a93dd57220ba3f0f29b8c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/build/built.js" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/build/built.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/src/1111111111111.png" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/imgs/1111111111111.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/src/22222222.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/imgs/22222222.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/src/33333333.png" beforeDir="false" afterPath="$PROJECT_DIR$/7_开发环境基本配置/src/imgs/33333333.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/src/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/src/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包图片资源/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/4_打包图片资源/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包样式文件/build/built.js" beforeDir="false" afterPath="$PROJECT_DIR$/2_打包样式文件/build/built.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包样式文件/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/2_打包样式文件/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包样式文件/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2_打包样式文件/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包样式文件/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2_打包样式文件/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包样式文件/src/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/2_打包样式文件/src/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/打包样式文件/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/2_打包样式文件/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +109,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/打包其他资源/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/8_提取CSS样式/src/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,12 +120,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/打包其他资源/src" />
-      <recent name="$PROJECT_DIR$/打包图片资源/src" />
+      <recent name="$PROJECT_DIR$/8_提取CSS样式/src/css" />
+      <recent name="$PROJECT_DIR$/8_提取CSS样式/src" />
+      <recent name="$PROJECT_DIR$/开发环境基本配置/src/imgs" />
+      <recent name="$PROJECT_DIR$/开发环境基本配置/src/media" />
+      <recent name="$PROJECT_DIR$/开发环境基本配置/src/css" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webpack基本用法/src/index.js" working-dir="$PROJECT_DIR$/webpack基本用法/src">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1_webpack基本用法/src/index.js" working-dir="$PROJECT_DIR$/1_webpack基本用法/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -87,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600843520852</updated>
-      <workItem from="1600843522746" duration="11776000" />
+      <workItem from="1600843522746" duration="16640000" />
     </task>
     <servers />
   </component>
@@ -111,9 +183,9 @@
       <screen x="-1920" y="-280" width="1920" height="1080" />
     </state>
     <state width="1894" height="303" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600844215689" />
-    <state x="-1379" y="-232" width="838" height="1032" key="search.everywhere.popup" timestamp="1600919097542">
+    <state x="-1379" y="-232" width="838" height="1032" key="search.everywhere.popup" timestamp="1600931081536">
       <screen x="-1920" y="-280" width="1920" height="1080" />
     </state>
-    <state x="-1379" y="-232" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600919097542" />
+    <state x="-1379" y="-232" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600931081536" />
   </component>
 </project>
