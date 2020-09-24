@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6cc0af0-5a2a-496d-a404-54b03eb49988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/打包图片资源/src/1111111111111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包图片资源/src/22222222.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包图片资源/src/33333333.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包图片资源/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包图片资源/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包图片资源/src/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/打包图片资源/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/打包其他资源/src/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/打包其他资源/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/打包其他资源/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/打包其他资源/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/打包图片资源/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/打包其他资源/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -52,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/打包其他资源/src" />
       <recent name="$PROJECT_DIR$/打包图片资源/src" />
     </key>
   </component>
@@ -87,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600843520852</updated>
-      <workItem from="1600843522746" duration="9812000" />
+      <workItem from="1600843522746" duration="11776000" />
     </task>
     <servers />
   </component>
@@ -111,5 +111,9 @@
       <screen x="-1920" y="-280" width="1920" height="1080" />
     </state>
     <state width="1894" height="303" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600844215689" />
+    <state x="-1379" y="-232" width="838" height="1032" key="search.everywhere.popup" timestamp="1600919097542">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state x="-1379" y="-232" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600919097542" />
   </component>
 </project>
