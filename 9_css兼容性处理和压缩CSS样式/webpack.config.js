@@ -1,7 +1,7 @@
 const {resolve} = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
-const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const CssMinimizerWebpackPlugin = require('css-minimizer-webpack-plugin')
+const optimizeCssAssetsWebpackPlugin = require('optimize-css-assets-webpack-plugin')
 
 // 这个例子有一个坑，就是下载postcss-loader要指定版本，指定@3版本。否则报错
 

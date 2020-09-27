@@ -2,9 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6cc0af0-5a2a-496d-a404-54b03eb49988" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/13_缓存优化/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_缓存优化/src/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_缓存优化/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_缓存优化/src/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_缓存优化/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/build/imgs/abf1c36d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/build/js/built.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/build/media/[hash: 10].eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/build/media/[hash: 10].svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/build/media/[hash: 10].ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/build/media/[hash: 10].woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/css/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/imgs/1111111111111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/imgs/22222222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/imgs/33333333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/media/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/media/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/media/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/src/media/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_生产环境基本配置/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_js兼容性处理和压缩js和html/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/11_js兼容性处理和压缩js和html/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/css/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/css/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/css/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/css/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/imgs/1111111111111.png" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/imgs/1111111111111.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/imgs/22222222.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/imgs/22222222.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/imgs/33333333.png" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/imgs/33333333.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/js/print.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/js/print.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/media/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/media/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/media/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/media/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/media/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/media/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/src/media/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/src/media/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换和错误定位source-map和oneOf优化/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_css兼容性处理和压缩CSS样式/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/9_css兼容性处理和压缩CSS样式/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +91,16 @@
       <recent name="$PROJECT_DIR$/开发环境基本配置/src/media" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.index.js (1)">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/13_缓存优化/src/js/index.js" working-dir="$PROJECT_DIR$/13_缓存优化/src/js">
+      <method v="2" />
+    </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1_webpack基本用法/src/index.js" working-dir="$PROJECT_DIR$/1_webpack基本用法/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js (1)" />
         <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
@@ -86,7 +129,7 @@
       <updated>1600843520852</updated>
       <workItem from="1600843522746" duration="25778000" />
       <workItem from="1601014964948" duration="24000" />
-      <workItem from="1601015025158" duration="5769000" />
+      <workItem from="1601015025158" duration="12813000" />
     </task>
     <servers />
   </component>
@@ -94,22 +137,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1894" height="303" key="GridCell.Tab.0.bottom" timestamp="1600844215690">
+    <state width="1894" height="303" key="GridCell.Tab.0.bottom" timestamp="1601196301625">
       <screen x="-1920" y="-280" width="1920" height="1080" />
     </state>
-    <state width="1894" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600844215690" />
-    <state width="1894" height="303" key="GridCell.Tab.0.center" timestamp="1600844215688">
+    <state width="1894" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1601196291644" />
+    <state width="1894" height="303" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1601196301625" />
+    <state width="1894" height="303" key="GridCell.Tab.0.center" timestamp="1601196301623">
       <screen x="-1920" y="-280" width="1920" height="1080" />
     </state>
-    <state width="1894" height="303" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600844215688" />
-    <state width="1894" height="303" key="GridCell.Tab.0.left" timestamp="1600844215687">
+    <state width="1894" height="303" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1601196291641" />
+    <state width="1894" height="303" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1601196301623" />
+    <state width="1894" height="303" key="GridCell.Tab.0.left" timestamp="1601196301622">
       <screen x="-1920" y="-280" width="1920" height="1080" />
     </state>
-    <state width="1894" height="303" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600844215687" />
-    <state width="1894" height="303" key="GridCell.Tab.0.right" timestamp="1600844215689">
+    <state width="1894" height="303" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1601196291639" />
+    <state width="1894" height="303" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1601196301622" />
+    <state width="1894" height="303" key="GridCell.Tab.0.right" timestamp="1601196301624">
       <screen x="-1920" y="-280" width="1920" height="1080" />
     </state>
-    <state width="1894" height="303" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1600844215689" />
+    <state width="1894" height="303" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1601196291643" />
+    <state width="1894" height="303" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1601196301624" />
     <state x="-1379" y="-232" width="838" height="1032" key="search.everywhere.popup" timestamp="1601016830878">
       <screen x="-1920" y="-280" width="1920" height="1080" />
     </state>
