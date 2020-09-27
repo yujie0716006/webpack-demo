@@ -54,5 +54,6 @@ module.exports = {
     open: true,
   //  开启HMR模式
     hot: true
-  }
+  },
+  devtool: 'source-map'
 }

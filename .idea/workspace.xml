@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6cc0af0-5a2a-496d-a404-54b03eb49988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10_eslint的语法检查/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_eslint的语法检查/src/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_eslint的语法检查/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_js兼容性处理和压缩js和html/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_js兼容性处理和压缩js和html/src/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_js兼容性处理和压缩js和html/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/css/iconfont.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/css/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/imgs/1111111111111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/imgs/22222222.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/imgs/33333333.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/js/print.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/media/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/media/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/media/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/media/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_HMR热模块替换/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_css兼容性处理和压缩CSS样式/src/css/a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_css兼容性处理和压缩CSS样式/src/css/b.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_css兼容性处理和压缩CSS样式/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_css兼容性处理和压缩CSS样式/src/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_css兼容性处理和压缩CSS样式/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_HMR热模块替换/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_HMR热模块替换/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +86,7 @@
       <updated>1600843520852</updated>
       <workItem from="1600843522746" duration="25778000" />
       <workItem from="1601014964948" duration="24000" />
-      <workItem from="1601015025158" duration="4529000" />
+      <workItem from="1601015025158" duration="5769000" />
     </task>
     <servers />
   </component>

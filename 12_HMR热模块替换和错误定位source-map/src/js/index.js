@@ -5,7 +5,7 @@ import print from './print'
 function add(a, b) {
   return a + b
 }
-console.log('怎么会是js')
+console.log('怎么会是js')()
 console.log('add', add(1, 2))
 print()
 if (module.hot) {
